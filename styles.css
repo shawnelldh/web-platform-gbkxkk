@@ -2,7 +2,7 @@ body {
   background: orange;
 }
 
-.container {
+.container-fluid {
   background-color: aqua;
   /*border: 2px dashed red:*/
 
